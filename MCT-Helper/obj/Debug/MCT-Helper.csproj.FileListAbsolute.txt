@@ -1,0 +1,12 @@
+D:\김명희\Project\MCT-Helper\MCT-Helper\bin\Debug\MCT-Helper.exe.config
+D:\김명희\Project\MCT-Helper\MCT-Helper\bin\Debug\MCT-Helper.exe
+D:\김명희\Project\MCT-Helper\MCT-Helper\bin\Debug\MCT-Helper.pdb
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT-Helper.csprojResolveAssemblyReference.cache
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT_Helper.Properties.Resources.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT-Helper.csproj.GenerateResource.Cache
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT-Helper.exe
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT-Helper.pdb
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT_Helper.fMainMenu.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT_Helper.fPCD.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT_Helper.fPrintPCD.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Debug\MCT_Helper.fTap.resources

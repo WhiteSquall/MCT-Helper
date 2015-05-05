@@ -1,0 +1,10 @@
+D:\김명희\Project\MCT-Helper\MCT-Helper\bin\Release\MCT-Helper.exe.config
+D:\김명희\Project\MCT-Helper\MCT-Helper\bin\Release\MCT-Helper.exe
+D:\김명희\Project\MCT-Helper\MCT-Helper\bin\Release\MCT-Helper.pdb
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT_Helper.fMainMenu.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT_Helper.fPCD.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT_Helper.fPrintPCD.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT_Helper.Properties.Resources.resources
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT-Helper.csproj.GenerateResource.Cache
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT-Helper.exe
+D:\김명희\Project\MCT-Helper\MCT-Helper\obj\Release\MCT-Helper.pdb
